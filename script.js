@@ -25,3 +25,4 @@ function startGame() {
     charImg.src = imgSrc;
     charImg.style.display = "block";
 }
+
