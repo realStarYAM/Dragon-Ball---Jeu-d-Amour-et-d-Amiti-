@@ -1,0 +1,7 @@
+[
+    { "nom": "France", "code": "FR", "emoji": "🇫🇷" },
+    { "nom": "Japon", "code": "JP", "emoji": "🇯🇵" },
+    { "nom": "États-Unis", "code": "US", "emoji": "🇺🇸" },
+    { "nom": "Brésil", "code": "BR", "emoji": "🇧🇷" },
+    { "nom": "Maroc", "code": "MA", "emoji": "🇲🇦" }
+]
