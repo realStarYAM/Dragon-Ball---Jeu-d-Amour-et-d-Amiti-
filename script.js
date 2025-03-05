@@ -20,7 +20,7 @@ function startGame() {
     let resultText = `Tu pars en voyage avec ${characterName} dans ${country} !`;
     document.getElementById("result").textContent = resultText;
 
-    let imgSrc = `images/${character}.png`; // Exemple : images/vegeta.png
+    let imgSrc = `${character}.png`; // Exemple : "goku.png"
     let charImg = document.getElementById("character-img");
     charImg.src = imgSrc;
     charImg.style.display = "block";
