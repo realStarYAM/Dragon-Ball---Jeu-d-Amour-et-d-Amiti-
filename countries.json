@@ -1,0 +1,1757 @@
+[
+  {
+    "code": "AD",
+    "emoji": "🇦🇩",
+    "fr": "Andorre",
+    "en": "Andorra",
+    "ar": "أندورا",
+    "es": "Andorra",
+    "it": "Andorra"
+  },
+  {
+    "code": "AE",
+    "emoji": "🇦🇪",
+    "fr": "Émirats arabes unis",
+    "en": "United Arab Emirates",
+    "ar": "الإمارات العربية المتحدة",
+    "es": "Emiratos Árabes Unidos",
+    "it": "Emirati Arabi Uniti"
+  },
+  {
+    "code": "AF",
+    "emoji": "🇦🇫",
+    "fr": "Afghanistan",
+    "en": "Afghanistan",
+    "ar": "أفغانستان",
+    "es": "Afganistán",
+    "it": "Afghanistan"
+  },
+  {
+    "code": "AG",
+    "emoji": "🇦🇬",
+    "fr": "Antigua-et-Barbuda",
+    "en": "Antigua & Barbuda",
+    "ar": "أنتيغوا وبربودا",
+    "es": "Antigua y Barbuda",
+    "it": "Antigua e Barbuda"
+  },
+  {
+    "code": "AL",
+    "emoji": "🇦🇱",
+    "fr": "Albanie",
+    "en": "Albania",
+    "ar": "ألبانيا",
+    "es": "Albania",
+    "it": "Albania"
+  },
+  {
+    "code": "AM",
+    "emoji": "🇦🇲",
+    "fr": "Arménie",
+    "en": "Armenia",
+    "ar": "أرمينيا",
+    "es": "Armenia",
+    "it": "Armenia"
+  },
+  {
+    "code": "AO",
+    "emoji": "🇦🇴",
+    "fr": "Angola",
+    "en": "Angola",
+    "ar": "أنغولا",
+    "es": "Angola",
+    "it": "Angola"
+  },
+  {
+    "code": "AR",
+    "emoji": "🇦🇷",
+    "fr": "Argentine",
+    "en": "Argentina",
+    "ar": "الأرجنتين",
+    "es": "Argentina",
+    "it": "Argentina"
+  },
+  {
+    "code": "AT",
+    "emoji": "🇦🇹",
+    "fr": "Autriche",
+    "en": "Austria",
+    "ar": "النمسا",
+    "es": "Austria",
+    "it": "Austria"
+  },
+  {
+    "code": "AU",
+    "emoji": "🇦🇺",
+    "fr": "Australie",
+    "en": "Australia",
+    "ar": "أستراليا",
+    "es": "Australia",
+    "it": "Australia"
+  },
+  {
+    "code": "AZ",
+    "emoji": "🇦🇿",
+    "fr": "Azerbaïdjan",
+    "en": "Azerbaijan",
+    "ar": "أذربيجان",
+    "es": "Azerbaiyán",
+    "it": "Azerbaigian"
+  },
+  {
+    "code": "BA",
+    "emoji": "🇧🇦",
+    "fr": "Bosnie-Herzégovine",
+    "en": "Bosnia & Herzegovina",
+    "ar": "البوسنة والهرسك",
+    "es": "Bosnia y Herzegovina",
+    "it": "Bosnia ed Erzegovina"
+  },
+  {
+    "code": "BB",
+    "emoji": "🇧🇧",
+    "fr": "Barbade",
+    "en": "Barbados",
+    "ar": "بربادوس",
+    "es": "Barbados",
+    "it": "Barbados"
+  },
+  {
+    "code": "BD",
+    "emoji": "🇧🇩",
+    "fr": "Bangladesh",
+    "en": "Bangladesh",
+    "ar": "بنغلاديش",
+    "es": "Bangladés",
+    "it": "Bangladesh"
+  },
+  {
+    "code": "BE",
+    "emoji": "🇧🇪",
+    "fr": "Belgique",
+    "en": "Belgium",
+    "ar": "بلجيكا",
+    "es": "Bélgica",
+    "it": "Belgio"
+  },
+  {
+    "code": "BF",
+    "emoji": "🇧🇫",
+    "fr": "Burkina Faso",
+    "en": "Burkina Faso",
+    "ar": "بوركينا فاسو",
+    "es": "Burkina Faso",
+    "it": "Burkina Faso"
+  },
+  {
+    "code": "BG",
+    "emoji": "🇧🇬",
+    "fr": "Bulgarie",
+    "en": "Bulgaria",
+    "ar": "بلغاريا",
+    "es": "Bulgaria",
+    "it": "Bulgaria"
+  },
+  {
+    "code": "BH",
+    "emoji": "🇧🇭",
+    "fr": "Bahreïn",
+    "en": "Bahrain",
+    "ar": "البحرين",
+    "es": "Baréin",
+    "it": "Bahrein"
+  },
+  {
+    "code": "BI",
+    "emoji": "🇧🇮",
+    "fr": "Burundi",
+    "en": "Burundi",
+    "ar": "بوروندي",
+    "es": "Burundi",
+    "it": "Burundi"
+  },
+  {
+    "code": "BJ",
+    "emoji": "🇧🇯",
+    "fr": "Bénin",
+    "en": "Benin",
+    "ar": "بنين",
+    "es": "Benín",
+    "it": "Benin"
+  },
+  {
+    "code": "BN",
+    "emoji": "🇧🇳",
+    "fr": "Brunei",
+    "en": "Brunei",
+    "ar": "بروناي",
+    "es": "Brunéi",
+    "it": "Brunei"
+  },
+  {
+    "code": "BO",
+    "emoji": "🇧🇴",
+    "fr": "Bolivie",
+    "en": "Bolivia",
+    "ar": "بوليفيا",
+    "es": "Bolivia",
+    "it": "Bolivia"
+  },
+  {
+    "code": "BR",
+    "emoji": "🇧🇷",
+    "fr": "Brésil",
+    "en": "Brazil",
+    "ar": "البرازيل",
+    "es": "Brasil",
+    "it": "Brasile"
+  },
+  {
+    "code": "BS",
+    "emoji": "🇧🇸",
+    "fr": "Bahamas",
+    "en": "Bahamas",
+    "ar": "جزر البهاما",
+    "es": "Bahamas",
+    "it": "Bahamas"
+  },
+  {
+    "code": "BT",
+    "emoji": "🇧🇹",
+    "fr": "Bhoutan",
+    "en": "Bhutan",
+    "ar": "بوتان",
+    "es": "Bután",
+    "it": "Bhutan"
+  },
+  {
+    "code": "BW",
+    "emoji": "🇧🇼",
+    "fr": "Botswana",
+    "en": "Botswana",
+    "ar": "بوتسوانا",
+    "es": "Botsuana",
+    "it": "Botswana"
+  },
+  {
+    "code": "BY",
+    "emoji": "🇧🇾",
+    "fr": "Biélorussie",
+    "en": "Belarus",
+    "ar": "بيلاروس",
+    "es": "Bielorrusia",
+    "it": "Bielorussia"
+  },
+  {
+    "code": "BZ",
+    "emoji": "🇧🇿",
+    "fr": "Belize",
+    "en": "Belize",
+    "ar": "بليز",
+    "es": "Belice",
+    "it": "Belize"
+  },
+  {
+    "code": "CA",
+    "emoji": "🇨🇦",
+    "fr": "Canada",
+    "en": "Canada",
+    "ar": "كندا",
+    "es": "Canadá",
+    "it": "Canada"
+  },
+  {
+    "code": "CD",
+    "emoji": "🇨🇩",
+    "fr": "Congo-Kinshasa",
+    "en": "Congo - Kinshasa",
+    "ar": "الكونغو - كينشاسا",
+    "es": "República Democrática del Congo",
+    "it": "Congo - Kinshasa"
+  },
+  {
+    "code": "CF",
+    "emoji": "🇨🇫",
+    "fr": "République centrafricaine",
+    "en": "Central African Republic",
+    "ar": "جمهورية أفريقيا الوسطى",
+    "es": "República Centroafricana",
+    "it": "Repubblica Centrafricana"
+  },
+  {
+    "code": "CG",
+    "emoji": "🇨🇬",
+    "fr": "Congo-Brazzaville",
+    "en": "Congo - Brazzaville",
+    "ar": "الكونغو - برازافيل",
+    "es": "Congo",
+    "it": "Congo-Brazzaville"
+  },
+  {
+    "code": "CH",
+    "emoji": "🇨🇭",
+    "fr": "Suisse",
+    "en": "Switzerland",
+    "ar": "سويسرا",
+    "es": "Suiza",
+    "it": "Svizzera"
+  },
+  {
+    "code": "CI",
+    "emoji": "🇨🇮",
+    "fr": "Côte d’Ivoire",
+    "en": "Côte d’Ivoire",
+    "ar": "ساحل العاج",
+    "es": "Côte d’Ivoire",
+    "it": "Costa d’Avorio"
+  },
+  {
+    "code": "CL",
+    "emoji": "🇨🇱",
+    "fr": "Chili",
+    "en": "Chile",
+    "ar": "تشيلي",
+    "es": "Chile",
+    "it": "Cile"
+  },
+  {
+    "code": "CM",
+    "emoji": "🇨🇲",
+    "fr": "Cameroun",
+    "en": "Cameroon",
+    "ar": "الكاميرون",
+    "es": "Camerún",
+    "it": "Camerun"
+  },
+  {
+    "code": "CN",
+    "emoji": "🇨🇳",
+    "fr": "Chine",
+    "en": "China",
+    "ar": "الصين",
+    "es": "China",
+    "it": "Cina"
+  },
+  {
+    "code": "CO",
+    "emoji": "🇨🇴",
+    "fr": "Colombie",
+    "en": "Colombia",
+    "ar": "كولومبيا",
+    "es": "Colombia",
+    "it": "Colombia"
+  },
+  {
+    "code": "CR",
+    "emoji": "🇨🇷",
+    "fr": "Costa Rica",
+    "en": "Costa Rica",
+    "ar": "كوستاريكا",
+    "es": "Costa Rica",
+    "it": "Costa Rica"
+  },
+  {
+    "code": "CU",
+    "emoji": "🇨🇺",
+    "fr": "Cuba",
+    "en": "Cuba",
+    "ar": "كوبا",
+    "es": "Cuba",
+    "it": "Cuba"
+  },
+  {
+    "code": "CV",
+    "emoji": "🇨🇻",
+    "fr": "Cap-Vert",
+    "en": "Cape Verde",
+    "ar": "الرأس الأخضر",
+    "es": "Cabo Verde",
+    "it": "Capo Verde"
+  },
+  {
+    "code": "CY",
+    "emoji": "🇨🇾",
+    "fr": "Chypre",
+    "en": "Cyprus",
+    "ar": "قبرص",
+    "es": "Chipre",
+    "it": "Cipro"
+  },
+  {
+    "code": "CZ",
+    "emoji": "🇨🇿",
+    "fr": "Tchéquie",
+    "en": "Czechia",
+    "ar": "التشيك",
+    "es": "Chequia",
+    "it": "Cechia"
+  },
+  {
+    "code": "DE",
+    "emoji": "🇩🇪",
+    "fr": "Allemagne",
+    "en": "Germany",
+    "ar": "ألمانيا",
+    "es": "Alemania",
+    "it": "Germania"
+  },
+  {
+    "code": "DJ",
+    "emoji": "🇩🇯",
+    "fr": "Djibouti",
+    "en": "Djibouti",
+    "ar": "جيبوتي",
+    "es": "Yibuti",
+    "it": "Gibuti"
+  },
+  {
+    "code": "DK",
+    "emoji": "🇩🇰",
+    "fr": "Danemark",
+    "en": "Denmark",
+    "ar": "الدانمرك",
+    "es": "Dinamarca",
+    "it": "Danimarca"
+  },
+  {
+    "code": "DM",
+    "emoji": "🇩🇲",
+    "fr": "Dominique",
+    "en": "Dominica",
+    "ar": "دومينيكا",
+    "es": "Dominica",
+    "it": "Dominica"
+  },
+  {
+    "code": "DO",
+    "emoji": "🇩🇴",
+    "fr": "République dominicaine",
+    "en": "Dominican Republic",
+    "ar": "جمهورية الدومينيكان",
+    "es": "República Dominicana",
+    "it": "Repubblica Dominicana"
+  },
+  {
+    "code": "DZ",
+    "emoji": "🇩🇿",
+    "fr": "Algérie",
+    "en": "Algeria",
+    "ar": "الجزائر",
+    "es": "Argelia",
+    "it": "Algeria"
+  },
+  {
+    "code": "EC",
+    "emoji": "🇪🇨",
+    "fr": "Équateur",
+    "en": "Ecuador",
+    "ar": "الإكوادور",
+    "es": "Ecuador",
+    "it": "Ecuador"
+  },
+  {
+    "code": "EE",
+    "emoji": "🇪🇪",
+    "fr": "Estonie",
+    "en": "Estonia",
+    "ar": "إستونيا",
+    "es": "Estonia",
+    "it": "Estonia"
+  },
+  {
+    "code": "EG",
+    "emoji": "🇪🇬",
+    "fr": "Égypte",
+    "en": "Egypt",
+    "ar": "مصر",
+    "es": "Egipto",
+    "it": "Egitto"
+  },
+  {
+    "code": "ER",
+    "emoji": "🇪🇷",
+    "fr": "Érythrée",
+    "en": "Eritrea",
+    "ar": "إريتريا",
+    "es": "Eritrea",
+    "it": "Eritrea"
+  },
+  {
+    "code": "ES",
+    "emoji": "🇪🇸",
+    "fr": "Espagne",
+    "en": "Spain",
+    "ar": "إسبانيا",
+    "es": "España",
+    "it": "Spagna"
+  },
+  {
+    "code": "ET",
+    "emoji": "🇪🇹",
+    "fr": "Éthiopie",
+    "en": "Ethiopia",
+    "ar": "إثيوبيا",
+    "es": "Etiopía",
+    "it": "Etiopia"
+  },
+  {
+    "code": "FI",
+    "emoji": "🇫🇮",
+    "fr": "Finlande",
+    "en": "Finland",
+    "ar": "فنلندا",
+    "es": "Finlandia",
+    "it": "Finlandia"
+  },
+  {
+    "code": "FJ",
+    "emoji": "🇫🇯",
+    "fr": "Fidji",
+    "en": "Fiji",
+    "ar": "فيجي",
+    "es": "Fiyi",
+    "it": "Figi"
+  },
+  {
+    "code": "FM",
+    "emoji": "🇫🇲",
+    "fr": "Micronésie",
+    "en": "Micronesia",
+    "ar": "ميكرونيزيا",
+    "es": "Micronesia",
+    "it": "Micronesia"
+  },
+  {
+    "code": "FR",
+    "emoji": "🇫🇷",
+    "fr": "France",
+    "en": "France",
+    "ar": "فرنسا",
+    "es": "Francia",
+    "it": "Francia"
+  },
+  {
+    "code": "GA",
+    "emoji": "🇬🇦",
+    "fr": "Gabon",
+    "en": "Gabon",
+    "ar": "الغابون",
+    "es": "Gabón",
+    "it": "Gabon"
+  },
+  {
+    "code": "GB",
+    "emoji": "🇬🇧",
+    "fr": "Royaume-Uni",
+    "en": "United Kingdom",
+    "ar": "المملكة المتحدة",
+    "es": "Reino Unido",
+    "it": "Regno Unito"
+  },
+  {
+    "code": "GD",
+    "emoji": "🇬🇩",
+    "fr": "Grenade",
+    "en": "Grenada",
+    "ar": "غرينادا",
+    "es": "Granada",
+    "it": "Grenada"
+  },
+  {
+    "code": "GE",
+    "emoji": "🇬🇪",
+    "fr": "Géorgie",
+    "en": "Georgia",
+    "ar": "جورجيا",
+    "es": "Georgia",
+    "it": "Georgia"
+  },
+  {
+    "code": "GH",
+    "emoji": "🇬🇭",
+    "fr": "Ghana",
+    "en": "Ghana",
+    "ar": "غانا",
+    "es": "Ghana",
+    "it": "Ghana"
+  },
+  {
+    "code": "GM",
+    "emoji": "🇬🇲",
+    "fr": "Gambie",
+    "en": "Gambia",
+    "ar": "غامبيا",
+    "es": "Gambia",
+    "it": "Gambia"
+  },
+  {
+    "code": "GN",
+    "emoji": "🇬🇳",
+    "fr": "Guinée",
+    "en": "Guinea",
+    "ar": "غينيا",
+    "es": "Guinea",
+    "it": "Guinea"
+  },
+  {
+    "code": "GQ",
+    "emoji": "🇬🇶",
+    "fr": "Guinée équatoriale",
+    "en": "Equatorial Guinea",
+    "ar": "غينيا الاستوائية",
+    "es": "Guinea Ecuatorial",
+    "it": "Guinea Equatoriale"
+  },
+  {
+    "code": "GR",
+    "emoji": "🇬🇷",
+    "fr": "Grèce",
+    "en": "Greece",
+    "ar": "اليونان",
+    "es": "Grecia",
+    "it": "Grecia"
+  },
+  {
+    "code": "GT",
+    "emoji": "🇬🇹",
+    "fr": "Guatemala",
+    "en": "Guatemala",
+    "ar": "غواتيمالا",
+    "es": "Guatemala",
+    "it": "Guatemala"
+  },
+  {
+    "code": "GW",
+    "emoji": "🇬🇼",
+    "fr": "Guinée-Bissau",
+    "en": "Guinea-Bissau",
+    "ar": "غينيا بيساو",
+    "es": "Guinea-Bisáu",
+    "it": "Guinea-Bissau"
+  },
+  {
+    "code": "GY",
+    "emoji": "🇬🇾",
+    "fr": "Guyana",
+    "en": "Guyana",
+    "ar": "غيانا",
+    "es": "Guyana",
+    "it": "Guyana"
+  },
+  {
+    "code": "HN",
+    "emoji": "🇭🇳",
+    "fr": "Honduras",
+    "en": "Honduras",
+    "ar": "هندوراس",
+    "es": "Honduras",
+    "it": "Honduras"
+  },
+  {
+    "code": "HR",
+    "emoji": "🇭🇷",
+    "fr": "Croatie",
+    "en": "Croatia",
+    "ar": "كرواتيا",
+    "es": "Croacia",
+    "it": "Croazia"
+  },
+  {
+    "code": "HT",
+    "emoji": "🇭🇹",
+    "fr": "Haïti",
+    "en": "Haiti",
+    "ar": "هايتي",
+    "es": "Haití",
+    "it": "Haiti"
+  },
+  {
+    "code": "HU",
+    "emoji": "🇭🇺",
+    "fr": "Hongrie",
+    "en": "Hungary",
+    "ar": "هنغاريا",
+    "es": "Hungría",
+    "it": "Ungheria"
+  },
+  {
+    "code": "ID",
+    "emoji": "🇮🇩",
+    "fr": "Indonésie",
+    "en": "Indonesia",
+    "ar": "إندونيسيا",
+    "es": "Indonesia",
+    "it": "Indonesia"
+  },
+  {
+    "code": "IE",
+    "emoji": "🇮🇪",
+    "fr": "Irlande",
+    "en": "Ireland",
+    "ar": "أيرلندا",
+    "es": "Irlanda",
+    "it": "Irlanda"
+  },
+  {
+    "code": "IL",
+    "emoji": "🇮🇱",
+    "fr": "Israël",
+    "en": "Israel",
+    "ar": "إسرائيل",
+    "es": "Israel",
+    "it": "Israele"
+  },
+  {
+    "code": "IN",
+    "emoji": "🇮🇳",
+    "fr": "Inde",
+    "en": "India",
+    "ar": "الهند",
+    "es": "India",
+    "it": "India"
+  },
+  {
+    "code": "IQ",
+    "emoji": "🇮🇶",
+    "fr": "Irak",
+    "en": "Iraq",
+    "ar": "العراق",
+    "es": "Irak",
+    "it": "Iraq"
+  },
+  {
+    "code": "IR",
+    "emoji": "🇮🇷",
+    "fr": "Iran",
+    "en": "Iran",
+    "ar": "إيران",
+    "es": "Irán",
+    "it": "Iran"
+  },
+  {
+    "code": "IS",
+    "emoji": "🇮🇸",
+    "fr": "Islande",
+    "en": "Iceland",
+    "ar": "آيسلندا",
+    "es": "Islandia",
+    "it": "Islanda"
+  },
+  {
+    "code": "IT",
+    "emoji": "🇮🇹",
+    "fr": "Italie",
+    "en": "Italy",
+    "ar": "إيطاليا",
+    "es": "Italia",
+    "it": "Italia"
+  },
+  {
+    "code": "JM",
+    "emoji": "🇯🇲",
+    "fr": "Jamaïque",
+    "en": "Jamaica",
+    "ar": "جامايكا",
+    "es": "Jamaica",
+    "it": "Giamaica"
+  },
+  {
+    "code": "JO",
+    "emoji": "🇯🇴",
+    "fr": "Jordanie",
+    "en": "Jordan",
+    "ar": "الأردن",
+    "es": "Jordania",
+    "it": "Giordania"
+  },
+  {
+    "code": "JP",
+    "emoji": "🇯🇵",
+    "fr": "Japon",
+    "en": "Japan",
+    "ar": "اليابان",
+    "es": "Japón",
+    "it": "Giappone"
+  },
+  {
+    "code": "KE",
+    "emoji": "🇰🇪",
+    "fr": "Kenya",
+    "en": "Kenya",
+    "ar": "كينيا",
+    "es": "Kenia",
+    "it": "Kenya"
+  },
+  {
+    "code": "KG",
+    "emoji": "🇰🇬",
+    "fr": "Kirghizstan",
+    "en": "Kyrgyzstan",
+    "ar": "قيرغيزستان",
+    "es": "Kirguistán",
+    "it": "Kirghizistan"
+  },
+  {
+    "code": "KH",
+    "emoji": "🇰🇭",
+    "fr": "Cambodge",
+    "en": "Cambodia",
+    "ar": "كمبوديا",
+    "es": "Camboya",
+    "it": "Cambogia"
+  },
+  {
+    "code": "KI",
+    "emoji": "🇰🇮",
+    "fr": "Kiribati",
+    "en": "Kiribati",
+    "ar": "كيريباتي",
+    "es": "Kiribati",
+    "it": "Kiribati"
+  },
+  {
+    "code": "KM",
+    "emoji": "🇰🇲",
+    "fr": "Comores",
+    "en": "Comoros",
+    "ar": "جزر القمر",
+    "es": "Comoras",
+    "it": "Comore"
+  },
+  {
+    "code": "KN",
+    "emoji": "🇰🇳",
+    "fr": "Saint-Christophe-et-Niévès",
+    "en": "St. Kitts & Nevis",
+    "ar": "سانت كيتس ونيفيس",
+    "es": "San Cristóbal y Nieves",
+    "it": "Saint Kitts e Nevis"
+  },
+  {
+    "code": "KP",
+    "emoji": "🇰🇵",
+    "fr": "Corée du Nord",
+    "en": "North Korea",
+    "ar": "كوريا الشمالية",
+    "es": "Corea del Norte",
+    "it": "Corea del Nord"
+  },
+  {
+    "code": "KR",
+    "emoji": "🇰🇷",
+    "fr": "Corée du Sud",
+    "en": "South Korea",
+    "ar": "كوريا الجنوبية",
+    "es": "Corea del Sur",
+    "it": "Corea del Sud"
+  },
+  {
+    "code": "KW",
+    "emoji": "🇰🇼",
+    "fr": "Koweït",
+    "en": "Kuwait",
+    "ar": "الكويت",
+    "es": "Kuwait",
+    "it": "Kuwait"
+  },
+  {
+    "code": "KZ",
+    "emoji": "🇰🇿",
+    "fr": "Kazakhstan",
+    "en": "Kazakhstan",
+    "ar": "كازاخستان",
+    "es": "Kazajistán",
+    "it": "Kazakistan"
+  },
+  {
+    "code": "LA",
+    "emoji": "🇱🇦",
+    "fr": "Laos",
+    "en": "Laos",
+    "ar": "لاوس",
+    "es": "Laos",
+    "it": "Laos"
+  },
+  {
+    "code": "LB",
+    "emoji": "🇱🇧",
+    "fr": "Liban",
+    "en": "Lebanon",
+    "ar": "لبنان",
+    "es": "Líbano",
+    "it": "Libano"
+  },
+  {
+    "code": "LC",
+    "emoji": "🇱🇨",
+    "fr": "Sainte-Lucie",
+    "en": "St. Lucia",
+    "ar": "سانت لوسيا",
+    "es": "Santa Lucía",
+    "it": "Saint Lucia"
+  },
+  {
+    "code": "LI",
+    "emoji": "🇱🇮",
+    "fr": "Liechtenstein",
+    "en": "Liechtenstein",
+    "ar": "ليختنشتاين",
+    "es": "Liechtenstein",
+    "it": "Liechtenstein"
+  },
+  {
+    "code": "LK",
+    "emoji": "🇱🇰",
+    "fr": "Sri Lanka",
+    "en": "Sri Lanka",
+    "ar": "سريلانكا",
+    "es": "Sri Lanka",
+    "it": "Sri Lanka"
+  },
+  {
+    "code": "LR",
+    "emoji": "🇱🇷",
+    "fr": "Liberia",
+    "en": "Liberia",
+    "ar": "ليبيريا",
+    "es": "Liberia",
+    "it": "Liberia"
+  },
+  {
+    "code": "LS",
+    "emoji": "🇱🇸",
+    "fr": "Lesotho",
+    "en": "Lesotho",
+    "ar": "ليسوتو",
+    "es": "Lesoto",
+    "it": "Lesotho"
+  },
+  {
+    "code": "LT",
+    "emoji": "🇱🇹",
+    "fr": "Lituanie",
+    "en": "Lithuania",
+    "ar": "ليتوانيا",
+    "es": "Lituania",
+    "it": "Lituania"
+  },
+  {
+    "code": "LU",
+    "emoji": "🇱🇺",
+    "fr": "Luxembourg",
+    "en": "Luxembourg",
+    "ar": "لوكسمبورغ",
+    "es": "Luxemburgo",
+    "it": "Lussemburgo"
+  },
+  {
+    "code": "LV",
+    "emoji": "🇱🇻",
+    "fr": "Lettonie",
+    "en": "Latvia",
+    "ar": "لاتفيا",
+    "es": "Letonia",
+    "it": "Lettonia"
+  },
+  {
+    "code": "LY",
+    "emoji": "🇱🇾",
+    "fr": "Libye",
+    "en": "Libya",
+    "ar": "ليبيا",
+    "es": "Libia",
+    "it": "Libia"
+  },
+  {
+    "code": "MA",
+    "emoji": "🇲🇦",
+    "fr": "Maroc",
+    "en": "Morocco",
+    "ar": "المغرب",
+    "es": "Marruecos",
+    "it": "Marocco"
+  },
+  {
+    "code": "MC",
+    "emoji": "🇲🇨",
+    "fr": "Monaco",
+    "en": "Monaco",
+    "ar": "موناكو",
+    "es": "Mónaco",
+    "it": "Monaco"
+  },
+  {
+    "code": "MD",
+    "emoji": "🇲🇩",
+    "fr": "Moldavie",
+    "en": "Moldova",
+    "ar": "مولدوفا",
+    "es": "Moldavia",
+    "it": "Moldavia"
+  },
+  {
+    "code": "ME",
+    "emoji": "🇲🇪",
+    "fr": "Monténégro",
+    "en": "Montenegro",
+    "ar": "الجبل الأسود",
+    "es": "Montenegro",
+    "it": "Montenegro"
+  },
+  {
+    "code": "MG",
+    "emoji": "🇲🇬",
+    "fr": "Madagascar",
+    "en": "Madagascar",
+    "ar": "مدغشقر",
+    "es": "Madagascar",
+    "it": "Madagascar"
+  },
+  {
+    "code": "MH",
+    "emoji": "🇲🇭",
+    "fr": "Îles Marshall",
+    "en": "Marshall Islands",
+    "ar": "جزر مارشال",
+    "es": "Islas Marshall",
+    "it": "Isole Marshall"
+  },
+  {
+    "code": "MK",
+    "emoji": "🇲🇰",
+    "fr": "Macédoine du Nord",
+    "en": "North Macedonia",
+    "ar": "مقدونيا الشمالية",
+    "es": "Macedonia del Norte",
+    "it": "Macedonia del Nord"
+  },
+  {
+    "code": "ML",
+    "emoji": "🇲🇱",
+    "fr": "Mali",
+    "en": "Mali",
+    "ar": "مالي",
+    "es": "Mali",
+    "it": "Mali"
+  },
+  {
+    "code": "MM",
+    "emoji": "🇲🇲",
+    "fr": "Myanmar (Birmanie)",
+    "en": "Myanmar (Burma)",
+    "ar": "ميانمار (بورما)",
+    "es": "Myanmar (Birmania)",
+    "it": "Myanmar (Birmania)"
+  },
+  {
+    "code": "MN",
+    "emoji": "🇲🇳",
+    "fr": "Mongolie",
+    "en": "Mongolia",
+    "ar": "منغوليا",
+    "es": "Mongolia",
+    "it": "Mongolia"
+  },
+  {
+    "code": "MR",
+    "emoji": "🇲🇷",
+    "fr": "Mauritanie",
+    "en": "Mauritania",
+    "ar": "موريتانيا",
+    "es": "Mauritania",
+    "it": "Mauritania"
+  },
+  {
+    "code": "MT",
+    "emoji": "🇲🇹",
+    "fr": "Malte",
+    "en": "Malta",
+    "ar": "مالطا",
+    "es": "Malta",
+    "it": "Malta"
+  },
+  {
+    "code": "MU",
+    "emoji": "🇲🇺",
+    "fr": "Maurice",
+    "en": "Mauritius",
+    "ar": "موريشيوس",
+    "es": "Mauricio",
+    "it": "Mauritius"
+  },
+  {
+    "code": "MV",
+    "emoji": "🇲🇻",
+    "fr": "Maldives",
+    "en": "Maldives",
+    "ar": "جزر المالديف",
+    "es": "Maldivas",
+    "it": "Maldive"
+  },
+  {
+    "code": "MW",
+    "emoji": "🇲🇼",
+    "fr": "Malawi",
+    "en": "Malawi",
+    "ar": "ملاوي",
+    "es": "Malaui",
+    "it": "Malawi"
+  },
+  {
+    "code": "MX",
+    "emoji": "🇲🇽",
+    "fr": "Mexique",
+    "en": "Mexico",
+    "ar": "المكسيك",
+    "es": "México",
+    "it": "Messico"
+  },
+  {
+    "code": "MY",
+    "emoji": "🇲🇾",
+    "fr": "Malaisie",
+    "en": "Malaysia",
+    "ar": "ماليزيا",
+    "es": "Malasia",
+    "it": "Malaysia"
+  },
+  {
+    "code": "MZ",
+    "emoji": "🇲🇿",
+    "fr": "Mozambique",
+    "en": "Mozambique",
+    "ar": "موزمبيق",
+    "es": "Mozambique",
+    "it": "Mozambico"
+  },
+  {
+    "code": "NA",
+    "emoji": "🇳🇦",
+    "fr": "Namibie",
+    "en": "Namibia",
+    "ar": "ناميبيا",
+    "es": "Namibia",
+    "it": "Namibia"
+  },
+  {
+    "code": "NE",
+    "emoji": "🇳🇪",
+    "fr": "Niger",
+    "en": "Niger",
+    "ar": "النيجر",
+    "es": "Níger",
+    "it": "Niger"
+  },
+  {
+    "code": "NG",
+    "emoji": "🇳🇬",
+    "fr": "Nigeria",
+    "en": "Nigeria",
+    "ar": "نيجيريا",
+    "es": "Nigeria",
+    "it": "Nigeria"
+  },
+  {
+    "code": "NI",
+    "emoji": "🇳🇮",
+    "fr": "Nicaragua",
+    "en": "Nicaragua",
+    "ar": "نيكاراغوا",
+    "es": "Nicaragua",
+    "it": "Nicaragua"
+  },
+  {
+    "code": "NL",
+    "emoji": "🇳🇱",
+    "fr": "Pays-Bas",
+    "en": "Netherlands",
+    "ar": "هولندا",
+    "es": "Países Bajos",
+    "it": "Paesi Bassi"
+  },
+  {
+    "code": "NO",
+    "emoji": "🇳🇴",
+    "fr": "Norvège",
+    "en": "Norway",
+    "ar": "النرويج",
+    "es": "Noruega",
+    "it": "Norvegia"
+  },
+  {
+    "code": "NP",
+    "emoji": "🇳🇵",
+    "fr": "Népal",
+    "en": "Nepal",
+    "ar": "نيبال",
+    "es": "Nepal",
+    "it": "Nepal"
+  },
+  {
+    "code": "NR",
+    "emoji": "🇳🇷",
+    "fr": "Nauru",
+    "en": "Nauru",
+    "ar": "ناورو",
+    "es": "Nauru",
+    "it": "Nauru"
+  },
+  {
+    "code": "NZ",
+    "emoji": "🇳🇿",
+    "fr": "Nouvelle-Zélande",
+    "en": "New Zealand",
+    "ar": "نيوزيلندا",
+    "es": "Nueva Zelanda",
+    "it": "Nuova Zelanda"
+  },
+  {
+    "code": "OM",
+    "emoji": "🇴🇲",
+    "fr": "Oman",
+    "en": "Oman",
+    "ar": "عُمان",
+    "es": "Omán",
+    "it": "Oman"
+  },
+  {
+    "code": "PA",
+    "emoji": "🇵🇦",
+    "fr": "Panama",
+    "en": "Panama",
+    "ar": "بنما",
+    "es": "Panamá",
+    "it": "Panama"
+  },
+  {
+    "code": "PE",
+    "emoji": "🇵🇪",
+    "fr": "Pérou",
+    "en": "Peru",
+    "ar": "بيرو",
+    "es": "Perú",
+    "it": "Perù"
+  },
+  {
+    "code": "PG",
+    "emoji": "🇵🇬",
+    "fr": "Papouasie-Nouvelle-Guinée",
+    "en": "Papua New Guinea",
+    "ar": "بابوا غينيا الجديدة",
+    "es": "Papúa Nueva Guinea",
+    "it": "Papua Nuova Guinea"
+  },
+  {
+    "code": "PH",
+    "emoji": "🇵🇭",
+    "fr": "Philippines",
+    "en": "Philippines",
+    "ar": "الفلبين",
+    "es": "Filipinas",
+    "it": "Filippine"
+  },
+  {
+    "code": "PK",
+    "emoji": "🇵🇰",
+    "fr": "Pakistan",
+    "en": "Pakistan",
+    "ar": "باكستان",
+    "es": "Pakistán",
+    "it": "Pakistan"
+  },
+  {
+    "code": "PL",
+    "emoji": "🇵🇱",
+    "fr": "Pologne",
+    "en": "Poland",
+    "ar": "بولندا",
+    "es": "Polonia",
+    "it": "Polonia"
+  },
+  {
+    "code": "PS",
+    "emoji": "🇵🇸",
+    "fr": "Territoires palestiniens",
+    "en": "Palestinian Territories",
+    "ar": "الأراضي الفلسطينية",
+    "es": "Territorios Palestinos",
+    "it": "Territori Palestinesi"
+  },
+  {
+    "code": "PT",
+    "emoji": "🇵🇹",
+    "fr": "Portugal",
+    "en": "Portugal",
+    "ar": "البرتغال",
+    "es": "Portugal",
+    "it": "Portogallo"
+  },
+  {
+    "code": "PW",
+    "emoji": "🇵🇼",
+    "fr": "Palaos",
+    "en": "Palau",
+    "ar": "بالاو",
+    "es": "Palaos",
+    "it": "Palau"
+  },
+  {
+    "code": "PY",
+    "emoji": "🇵🇾",
+    "fr": "Paraguay",
+    "en": "Paraguay",
+    "ar": "باراغواي",
+    "es": "Paraguay",
+    "it": "Paraguay"
+  },
+  {
+    "code": "QA",
+    "emoji": "🇶🇦",
+    "fr": "Qatar",
+    "en": "Qatar",
+    "ar": "قطر",
+    "es": "Catar",
+    "it": "Qatar"
+  },
+  {
+    "code": "RO",
+    "emoji": "🇷🇴",
+    "fr": "Roumanie",
+    "en": "Romania",
+    "ar": "رومانيا",
+    "es": "Rumanía",
+    "it": "Romania"
+  },
+  {
+    "code": "RS",
+    "emoji": "🇷🇸",
+    "fr": "Serbie",
+    "en": "Serbia",
+    "ar": "صربيا",
+    "es": "Serbia",
+    "it": "Serbia"
+  },
+  {
+    "code": "RU",
+    "emoji": "🇷🇺",
+    "fr": "Russie",
+    "en": "Russia",
+    "ar": "روسيا",
+    "es": "Rusia",
+    "it": "Russia"
+  },
+  {
+    "code": "RW",
+    "emoji": "🇷🇼",
+    "fr": "Rwanda",
+    "en": "Rwanda",
+    "ar": "رواندا",
+    "es": "Ruanda",
+    "it": "Ruanda"
+  },
+  {
+    "code": "SA",
+    "emoji": "🇸🇦",
+    "fr": "Arabie saoudite",
+    "en": "Saudi Arabia",
+    "ar": "المملكة العربية السعودية",
+    "es": "Arabia Saudí",
+    "it": "Arabia Saudita"
+  },
+  {
+    "code": "SB",
+    "emoji": "🇸🇧",
+    "fr": "Îles Salomon",
+    "en": "Solomon Islands",
+    "ar": "جزر سليمان",
+    "es": "Islas Salomón",
+    "it": "Isole Salomone"
+  },
+  {
+    "code": "SC",
+    "emoji": "🇸🇨",
+    "fr": "Seychelles",
+    "en": "Seychelles",
+    "ar": "سيشل",
+    "es": "Seychelles",
+    "it": "Seychelles"
+  },
+  {
+    "code": "SD",
+    "emoji": "🇸🇩",
+    "fr": "Soudan",
+    "en": "Sudan",
+    "ar": "السودان",
+    "es": "Sudán",
+    "it": "Sudan"
+  },
+  {
+    "code": "SE",
+    "emoji": "🇸🇪",
+    "fr": "Suède",
+    "en": "Sweden",
+    "ar": "السويد",
+    "es": "Suecia",
+    "it": "Svezia"
+  },
+  {
+    "code": "SG",
+    "emoji": "🇸🇬",
+    "fr": "Singapour",
+    "en": "Singapore",
+    "ar": "سنغافورة",
+    "es": "Singapur",
+    "it": "Singapore"
+  },
+  {
+    "code": "SI",
+    "emoji": "🇸🇮",
+    "fr": "Slovénie",
+    "en": "Slovenia",
+    "ar": "سلوفينيا",
+    "es": "Eslovenia",
+    "it": "Slovenia"
+  },
+  {
+    "code": "SK",
+    "emoji": "🇸🇰",
+    "fr": "Slovaquie",
+    "en": "Slovakia",
+    "ar": "سلوفاكيا",
+    "es": "Eslovaquia",
+    "it": "Slovacchia"
+  },
+  {
+    "code": "SL",
+    "emoji": "🇸🇱",
+    "fr": "Sierra Leone",
+    "en": "Sierra Leone",
+    "ar": "سيراليون",
+    "es": "Sierra Leona",
+    "it": "Sierra Leone"
+  },
+  {
+    "code": "SM",
+    "emoji": "🇸🇲",
+    "fr": "Saint-Marin",
+    "en": "San Marino",
+    "ar": "سان مارينو",
+    "es": "San Marino",
+    "it": "San Marino"
+  },
+  {
+    "code": "SN",
+    "emoji": "🇸🇳",
+    "fr": "Sénégal",
+    "en": "Senegal",
+    "ar": "السنغال",
+    "es": "Senegal",
+    "it": "Senegal"
+  },
+  {
+    "code": "SO",
+    "emoji": "🇸🇴",
+    "fr": "Somalie",
+    "en": "Somalia",
+    "ar": "الصومال",
+    "es": "Somalia",
+    "it": "Somalia"
+  },
+  {
+    "code": "SR",
+    "emoji": "🇸🇷",
+    "fr": "Suriname",
+    "en": "Suriname",
+    "ar": "سورينام",
+    "es": "Surinam",
+    "it": "Suriname"
+  },
+  {
+    "code": "SS",
+    "emoji": "🇸🇸",
+    "fr": "Soudan du Sud",
+    "en": "South Sudan",
+    "ar": "جنوب السودان",
+    "es": "Sudán del Sur",
+    "it": "Sud Sudan"
+  },
+  {
+    "code": "ST",
+    "emoji": "🇸🇹",
+    "fr": "Sao Tomé-et-Principe",
+    "en": "São Tomé & Príncipe",
+    "ar": "ساو تومي وبرينسيبي",
+    "es": "Santo Tomé y Príncipe",
+    "it": "São Tomé e Príncipe"
+  },
+  {
+    "code": "SV",
+    "emoji": "🇸🇻",
+    "fr": "Salvador",
+    "en": "El Salvador",
+    "ar": "السلفادور",
+    "es": "El Salvador",
+    "it": "El Salvador"
+  },
+  {
+    "code": "SY",
+    "emoji": "🇸🇾",
+    "fr": "Syrie",
+    "en": "Syria",
+    "ar": "سوريا",
+    "es": "Siria",
+    "it": "Siria"
+  },
+  {
+    "code": "SZ",
+    "emoji": "🇸🇿",
+    "fr": "Eswatini",
+    "en": "Eswatini",
+    "ar": "إسواتيني",
+    "es": "Esuatini",
+    "it": "Eswatini"
+  },
+  {
+    "code": "TD",
+    "emoji": "🇹🇩",
+    "fr": "Tchad",
+    "en": "Chad",
+    "ar": "تشاد",
+    "es": "Chad",
+    "it": "Ciad"
+  },
+  {
+    "code": "TG",
+    "emoji": "🇹🇬",
+    "fr": "Togo",
+    "en": "Togo",
+    "ar": "توغو",
+    "es": "Togo",
+    "it": "Togo"
+  },
+  {
+    "code": "TH",
+    "emoji": "🇹🇭",
+    "fr": "Thaïlande",
+    "en": "Thailand",
+    "ar": "تايلاند",
+    "es": "Tailandia",
+    "it": "Thailandia"
+  },
+  {
+    "code": "TJ",
+    "emoji": "🇹🇯",
+    "fr": "Tadjikistan",
+    "en": "Tajikistan",
+    "ar": "طاجيكستان",
+    "es": "Tayikistán",
+    "it": "Tagikistan"
+  },
+  {
+    "code": "TL",
+    "emoji": "🇹🇱",
+    "fr": "Timor oriental",
+    "en": "Timor-Leste",
+    "ar": "تيمور - ليشتي",
+    "es": "Timor-Leste",
+    "it": "Timor Est"
+  },
+  {
+    "code": "TM",
+    "emoji": "🇹🇲",
+    "fr": "Turkménistan",
+    "en": "Turkmenistan",
+    "ar": "تركمانستان",
+    "es": "Turkmenistán",
+    "it": "Turkmenistan"
+  },
+  {
+    "code": "TN",
+    "emoji": "🇹🇳",
+    "fr": "Tunisie",
+    "en": "Tunisia",
+    "ar": "تونس",
+    "es": "Túnez",
+    "it": "Tunisia"
+  },
+  {
+    "code": "TO",
+    "emoji": "🇹🇴",
+    "fr": "Tonga",
+    "en": "Tonga",
+    "ar": "تونغا",
+    "es": "Tonga",
+    "it": "Tonga"
+  },
+  {
+    "code": "TR",
+    "emoji": "🇹🇷",
+    "fr": "Turquie",
+    "en": "Türkiye",
+    "ar": "تركيا",
+    "es": "Turquía",
+    "it": "Turchia"
+  },
+  {
+    "code": "TT",
+    "emoji": "🇹🇹",
+    "fr": "Trinité-et-Tobago",
+    "en": "Trinidad & Tobago",
+    "ar": "ترينيداد وتوباغو",
+    "es": "Trinidad y Tobago",
+    "it": "Trinidad e Tobago"
+  },
+  {
+    "code": "TV",
+    "emoji": "🇹🇻",
+    "fr": "Tuvalu",
+    "en": "Tuvalu",
+    "ar": "توفالو",
+    "es": "Tuvalu",
+    "it": "Tuvalu"
+  },
+  {
+    "code": "TZ",
+    "emoji": "🇹🇿",
+    "fr": "Tanzanie",
+    "en": "Tanzania",
+    "ar": "تنزانيا",
+    "es": "Tanzania",
+    "it": "Tanzania"
+  },
+  {
+    "code": "UA",
+    "emoji": "🇺🇦",
+    "fr": "Ukraine",
+    "en": "Ukraine",
+    "ar": "أوكرانيا",
+    "es": "Ucrania",
+    "it": "Ucraina"
+  },
+  {
+    "code": "UG",
+    "emoji": "🇺🇬",
+    "fr": "Ouganda",
+    "en": "Uganda",
+    "ar": "أوغندا",
+    "es": "Uganda",
+    "it": "Uganda"
+  },
+  {
+    "code": "US",
+    "emoji": "🇺🇸",
+    "fr": "États-Unis",
+    "en": "United States",
+    "ar": "الولايات المتحدة",
+    "es": "Estados Unidos",
+    "it": "Stati Uniti"
+  },
+  {
+    "code": "UY",
+    "emoji": "🇺🇾",
+    "fr": "Uruguay",
+    "en": "Uruguay",
+    "ar": "أورغواي",
+    "es": "Uruguay",
+    "it": "Uruguay"
+  },
+  {
+    "code": "UZ",
+    "emoji": "🇺🇿",
+    "fr": "Ouzbékistan",
+    "en": "Uzbekistan",
+    "ar": "أوزبكستان",
+    "es": "Uzbekistán",
+    "it": "Uzbekistan"
+  },
+  {
+    "code": "VA",
+    "emoji": "🇻🇦",
+    "fr": "État de la Cité du Vatican",
+    "en": "Vatican City",
+    "ar": "الفاتيكان",
+    "es": "Ciudad del Vaticano",
+    "it": "Città del Vaticano"
+  },
+  {
+    "code": "VC",
+    "emoji": "🇻🇨",
+    "fr": "Saint-Vincent-et-les Grenadines",
+    "en": "St. Vincent & Grenadines",
+    "ar": "سانت فنسنت وجزر غرينادين",
+    "es": "San Vicente y las Granadinas",
+    "it": "Saint Vincent e Grenadine"
+  },
+  {
+    "code": "VE",
+    "emoji": "🇻🇪",
+    "fr": "Venezuela",
+    "en": "Venezuela",
+    "ar": "فنزويلا",
+    "es": "Venezuela",
+    "it": "Venezuela"
+  },
+  {
+    "code": "VN",
+    "emoji": "🇻🇳",
+    "fr": "Viêt Nam",
+    "en": "Vietnam",
+    "ar": "فيتنام",
+    "es": "Vietnam",
+    "it": "Vietnam"
+  },
+  {
+    "code": "VU",
+    "emoji": "🇻🇺",
+    "fr": "Vanuatu",
+    "en": "Vanuatu",
+    "ar": "فانواتو",
+    "es": "Vanuatu",
+    "it": "Vanuatu"
+  },
+  {
+    "code": "WS",
+    "emoji": "🇼🇸",
+    "fr": "Samoa",
+    "en": "Samoa",
+    "ar": "ساموا",
+    "es": "Samoa",
+    "it": "Samoa"
+  },
+  {
+    "code": "YE",
+    "emoji": "🇾🇪",
+    "fr": "Yémen",
+    "en": "Yemen",
+    "ar": "اليمن",
+    "es": "Yemen",
+    "it": "Yemen"
+  },
+  {
+    "code": "ZA",
+    "emoji": "🇿🇦",
+    "fr": "Afrique du Sud",
+    "en": "South Africa",
+    "ar": "جنوب أفريقيا",
+    "es": "Sudáfrica",
+    "it": "Sudafrica"
+  },
+  {
+    "code": "ZM",
+    "emoji": "🇿🇲",
+    "fr": "Zambie",
+    "en": "Zambia",
+    "ar": "زامبيا",
+    "es": "Zambia",
+    "it": "Zambia"
+  },
+  {
+    "code": "ZW",
+    "emoji": "🇿🇼",
+    "fr": "Zimbabwe",
+    "en": "Zimbabwe",
+    "ar": "زيمبابوي",
+    "es": "Zimbabue",
+    "it": "Zimbabwe"
+  }
+]
