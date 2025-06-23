@@ -34,9 +34,10 @@ function startGame() {
     let resultText = `Tu pars en voyage avec ${characterName} en ${countryName} !`;
     document.getElementById("result").textContent = resultText;
 
-    let imgSrc = `${character}.png`; // Exemple : "goku.png"
-    let charImg = document.getElementById("character-img");
+    const imgSrc = `${character}.png`;
+    const charImg = document.getElementById("character-img");
     charImg.src = imgSrc;
+    charImg.alt = characterName;
     charImg.style.display = "block";
 }
 

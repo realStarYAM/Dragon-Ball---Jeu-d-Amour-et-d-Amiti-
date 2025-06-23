@@ -1,8 +1,9 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="dark light">
     <title>Dragon Ball - Jeu d'Amour et d'Amitié</title>
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -33,7 +34,22 @@
         <button onclick="startGame()">Commencer l'aventure</button>
 
         <p id="result"></p>
-        <img id="character-img" src="" alt="" style="display:none;width:200px;">
+        <img id="character-img" src="" alt="personnage" style="display:none;width:200px;">
+
+        <table class="ki-table">
+            <thead>
+                <tr>
+                    <th>Nom</th>
+                    <th>KI</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Goku</td><td>9000</td></tr>
+                <tr><td>Vegeta</td><td>8500</td></tr>
+                <tr><td>Gohan</td><td>7000</td></tr>
+                <tr><td>Bulma</td><td>200</td></tr>
+            </tbody>
+        </table>
     </div>
 
     <script src="script.js"></script>

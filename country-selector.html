@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sélecteur de pays</title>
+<style>
+body{margin:0;font-family:system-ui,sans-serif;background:#111;color:#fff;display:flex;align-items:center;justify-content:center;min-height:100vh}
+.container{width:90%;max-width:420px}
+select{width:100%;padding:8px;margin-bottom:10px;background:#222;color:#fff;border:none;border-radius:4px}
+</style>
+</head>
+<body>
+<div class="container">
+<select id="lang">
+  <option value="fr">Français</option>
+  <option value="en">English</option>
+  <option value="ar">العربية</option>
+  <option value="es">Español</option>
+  <option value="it">Italiano</option>
+</select>
+<select id="countries"></select>
+</div>
+<script>
+let countries=[];
+const lang=document.getElementById('lang');
+const list=document.getElementById('countries');
+fetch('countries.json').then(r=>r.json()).then(d=>{countries=d;render()});
+lang.addEventListener('change',render);
+function render(){
+  list.innerHTML='';
+  const l=lang.value;
+  countries.forEach(c=>{
+    const o=document.createElement('option');
+    o.value=c.code;
+    o.textContent=`${c.emoji} ${c[l]}`;
+    list.appendChild(o);
+  });
+}
+</script>
+</body>
+</html>

@@ -52,3 +52,24 @@ img {
     width: 100%;
     max-width: 200px;
 }
+
+.ki-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.ki-table th,
+.ki-table td {
+    padding: 8px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.ki-table th {
+    background: #ff9500;
+    color: #000;
+}
+
+.ki-table tr:nth-child(even) {
+    background: rgba(255, 255, 255, 0.05);
+}
