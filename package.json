@@ -1,0 +1,20 @@
+{
+  "name": "dragon-ball-jeu-damour-et-damitie",
+  "version": "1.0.0",
+  "description": "Un jeu HTML/JS/CSS basé sur l'amour et l'amitié dans l'univers de Dragon Ball.",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Ouvre index.html dans ton navigateur !'",
+    "test": "echo 'Aucun test défini pour l’instant !'"
+  },
+  "keywords": [
+    "dragon-ball",
+    "jeu",
+    "amour",
+    "amitie",
+    "html",
+    "javascript"
+  ],
+  "author": "StarYAM (Yugurtha Adel)",
+  "license": "MIT"
+}
