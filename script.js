@@ -1,23 +1,37 @@
 document.addEventListener("DOMContentLoaded", function () {
-    fetch("pays.json")
+    let countriesData = [];
+
+    fetch("countries.json")
         .then(response => response.json())
         .then(data => {
-            let countrySelect = document.getElementById("country");
-            data.forEach(pays => {
-                let option = document.createElement("option");
-                option.value = pays.code;
-                option.textContent = `${pays.emoji} ${pays.nom}`;
-                countrySelect.appendChild(option);
-            });
+            countriesData = data;
+            populateCountries("fr");
         });
+
+    const langSelect = document.getElementById("language");
+    langSelect.addEventListener("change", () => {
+        populateCountries(langSelect.value);
+    });
+
+    function populateCountries(lang) {
+        const countrySelect = document.getElementById("country");
+        countrySelect.innerHTML = "";
+        countriesData.forEach(pays => {
+            const option = document.createElement("option");
+            option.value = pays.code;
+            option.textContent = `${pays.emoji} ${pays[lang]}`;
+            countrySelect.appendChild(option);
+        });
+    }
 });
 
 function startGame() {
     let character = document.getElementById("character").value;
-    let country = document.getElementById("country").value;
+    const countrySelect = document.getElementById("country");
+    const countryName = countrySelect.options[countrySelect.selectedIndex].textContent;
 
     let characterName = character.charAt(0).toUpperCase() + character.slice(1);
-    let resultText = `Tu pars en voyage avec ${characterName} dans ${country} !`;
+    let resultText = `Tu pars en voyage avec ${characterName} en ${countryName} !`;
     document.getElementById("result").textContent = resultText;
 
     let imgSrc = `${character}.png`; // Exemple : "goku.png"
