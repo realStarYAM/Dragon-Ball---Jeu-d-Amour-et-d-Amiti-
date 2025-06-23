@@ -1,17 +1,54 @@
 body {
+    margin: 0;
     font-family: Arial, sans-serif;
+    color: #fff;
+    background: linear-gradient(135deg, #1f1f1f, #0a0a0a);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
     text-align: center;
-    background-color: #121212;
-    color: white;
 }
+
+.aero-container {
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(6px);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+    padding: 20px;
+    width: 90%;
+    max-width: 400px;
+}
+
 h1 {
     color: orange;
+    margin-top: 0;
 }
+
+select,
 button {
-    background-color: orange;
-    color: black;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
     border: none;
-    padding: 10px 20px;
-    font-size: 16px;
+    font-size: 1rem;
+}
+
+select {
+    background-color: #222;
+    color: #fff;
+}
+
+button {
+    background: linear-gradient(to right, #ffa500, #ffce00);
+    color: #000;
     cursor: pointer;
+}
+
+img {
+    margin-top: 10px;
+    width: 100%;
+    max-width: 200px;
 }
